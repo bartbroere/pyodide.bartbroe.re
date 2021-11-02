@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/bartbroere/pyodide.bartbroe.re/issues"
   },
-  "homepage": "https://github.com/bartbroere/pyodide.bartbroe.re#readme"
+  "homepage": "https://github.com/bartbroere/pyodide.bartbroe.re#readme",
+  "directories":{
+      "build": "/"
+  } 
 }
