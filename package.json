@@ -1,0 +1,22 @@
+{
+  "name": "pyodide.bartbroe.re",
+  "version": "2021.11.2",
+  "description": "pyodide-staging",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bartbroere/pyodide.bartbroe.re.git"
+  },
+  "keywords": [
+    "pyodide"
+  ],
+  "author": "Bart Broere",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bartbroere/pyodide.bartbroe.re/issues"
+  },
+  "homepage": "https://github.com/bartbroere/pyodide.bartbroe.re#readme"
+}
