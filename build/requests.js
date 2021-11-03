@@ -109,11 +109,11 @@ Module.expectedDataFileDownloads++;
         var curr;
         var compressedData = {
           data: null,
-          cachedOffset: 1601,
+          cachedOffset: 1587,
           cachedIndexes: [-1, -1],
           cachedChunks: [null, null],
-          offsets: [0, 1212],
-          sizes: [1212, 389],
+          offsets: [0, 1217],
+          sizes: [1217, 370],
           successes: [1, 1]
         };
         compressedData["data"] = byteArray;
@@ -144,28 +144,28 @@ Module.expectedDataFileDownloads++;
     files: [{
       filename: "/lib/python3.9/site-packages/requests/__init__.py",
       start: 0,
-      end: 1941,
+      end: 1903,
       audio: 0
     }, {
       filename: "/lib/python3.9/site-packages/requests-2021.11.3-py3.8.egg-info/top_level.txt",
-      start: 1941,
-      end: 1950,
+      start: 1903,
+      end: 1912,
       audio: 0
     }, {
       filename: "/lib/python3.9/site-packages/requests-2021.11.3-py3.8.egg-info/SOURCES.txt",
-      start: 1950,
-      end: 2125,
+      start: 1912,
+      end: 2087,
       audio: 0
     }, {
       filename: "/lib/python3.9/site-packages/requests-2021.11.3-py3.8.egg-info/dependency_links.txt",
-      start: 2125,
-      end: 2126,
+      start: 2087,
+      end: 2088,
       audio: 0
     }, {
       filename: "/lib/python3.9/site-packages/requests-2021.11.3-py3.8.egg-info/PKG-INFO",
-      start: 2126,
-      end: 2553,
+      start: 2088,
+      end: 2515,
       audio: 0
-    }], remote_package_size: 5697, package_uuid: "70f2a285-8c24-4c93-8d94-21ee80f5106c"
+    }], remote_package_size: 5683, package_uuid: "a0ae05ed-911d-49cd-bbac-50f4b278d4a6"
   })
 })();
